@@ -1,4 +1,4 @@
-# Kahve Dükkanı Site Arayüzü
+# Kahve Dükkanı Site Arayüzü ☕️
 
 <li>Bu proje HTML5,CSS3,JS ile oluşturulmuş Kahve Dükkanı site arayüzü içerir.</li>
 <li>Şık grafik tasarımı,kolay ve modern yapısıyla kahve severlerin beğenisine sunulmuştur.</li>
