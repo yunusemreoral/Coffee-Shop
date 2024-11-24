@@ -2,7 +2,7 @@
 
 <li>Bu proje HTML5,CSS3,JS ile oluşturulmuş Kahve Dükkanı site arayüzü içerir.</li>
 <li>Şık grafik tasarımı,kolay ve modern yapısıyla kahve severlerin beğenisine sunulmuştur.</li>
-<li>Müşterilere zengin menü içeri ile farklı lezzetlere ulaşmasını olanak sağlar.</li>
+<li>Müşterilere zengin menü içeriği ile farklı lezzetlere ulaşmasını olanak sağlar.</li>
 <li>Blog menüsü,müşteri yorumları,sosyal medya hesapları,konum bilgisi,iletişim alanı ile akıllardaki soruları çözüm sunar.</li>
 <li>Ayrıca duyarlı tasarımı ile telefon,tablet,bilgisayar üzerinden kolay erişim olanağı sunar.</li>
 
